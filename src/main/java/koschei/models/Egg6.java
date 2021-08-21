@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Egg6 {
 
+    //3 вариант конструктор
     private final Needle7 needle;
 
     @Autowired
